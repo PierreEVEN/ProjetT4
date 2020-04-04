@@ -1,33 +1,33 @@
----,ID,Nom,Prenom,Efforts,Competences,Motivation,Moral,AimeProf,Ponctualite,,Point de competence
-Eleve_0,0,Knutur,Arthur,5,3,4,1,2,5,,20
-Eleve_1,1,Dodeman,Amorgen,5,3,2,2,3,5,,20
-Eleve_2,2,Gounouf,Cathal,5,2,5,3,2,3,,20
-Eleve_3,3,Juleson,Cesar,4,5,5,2,1,3,,20
-Eleve_4,4,Helgi,Felix,3,2,4,5,4,2,,20
-Eleve_5,5,Hjalmarsson,Kane,3,7,5,4,3,6,,28
-Eleve_6,6,Bjarnason,Lucan,1,2,3,7,3,3,,19
-Eleve_7,7,Arnason,Agate,6,2,4,2,2,3,,19
-Eleve_8,8,Kristoffersen,Aveleen,5,3,3,5,5,4,,25
-Eleve_9,9,Helguson ,Cordelia,2,6,4,2,3,3,,20
-Eleve_10,10,Osmond,Cleena,1,5,5,2,2,5,,20
-Eleve_11,11,Hansen,Cleophee,2,6,4,5,3,4,,24
-Eleve_12,12,Toeframathurinn,Merlin,3,7,3,4,3,3,,23
-Eleve_13,13,Bryndisarson ,Sachka,4,5,3,3,4,2,,21
-Eleve_14,14,Turrou,Audric,5,2,5,3,4,4,,23
-Eleve_15,15,Renouf,Arwen,6,3,2,2,5,4,,22
-Eleve_16,16,Alfur,Gauvain,5,4,1,4,3,3,,20
-Eleve_17,17,Asgrímsson,Arya,2,3,4,5,2,1,,17
-Eleve_18,18,Inguier,Cirdan,4,2,3,1,5,2,,17
-Eleve_19,19,Eriksson,Valar,4,2,4,5,7,5,,27
-Eleve_20,20,Yngouf,Matan,4,1,5,2,4,5,,21
-Eleve_21,21,Varangot,Olaf,5,2,4,2,3,4,,20
-Eleve_22,22,Aze,Leif,4,5,2,3,4,6,,24
-Eleve_23,23,Ernouf,Bjarne,4,2,3,1,5,7,,22
-Eleve_24,24,Kirkegaard,Gandalf,2,4,5,2,7,2,,22
-Eleve_25,25,Persson,Markus,7,6,5,2,2,3,,25
-Eleve_26,26,Foutete,Franco,3,7,3,1,6,3,,23
-Eleve_27,27,Ovenn,Piro,2,6,4,5,4,5,,26
-Eleve_28,28,Leinfebr,Lias,3,7,5,5,5,3,,28
-Eleve_29,29,Miglagla,Yonn,1,4,5,7,3,2,,22
-Eleve_30,30,Voyaar,Mateu,2,3,6,7,5,2,,25
-Eleve_31,31,Gulbrandsen,Egill,5,2,1,6,5,3,,22
+---,ID,Nom,Prenom,Comprehension,QualiteReponse,VitesseTravail,SoinExercices,RespConsignes,AppLecons
+Eleve_0,0,Knutur,Arthur,5,3,4,1,2,5
+Eleve_1,1,Dodeman,Amorgen,5,3,2,2,3,5
+Eleve_2,2,Gounouf,Cathal,5,2,5,3,2,3
+Eleve_3,3,Juleson,Cesar,4,5,5,2,1,3
+Eleve_4,4,Helgi,Felix,3,2,4,5,4,2
+Eleve_5,5,Hjalmarsson,Kane,3,7,5,4,3,6
+Eleve_6,6,Bjarnason,Lucan,1,2,3,7,3,3
+Eleve_7,7,Arnason,Agate,6,2,4,2,2,3
+Eleve_8,8,Kristoffersen,Aveleen,5,3,3,5,5,4
+Eleve_9,9,Helguson ,Cordelia,2,6,4,2,3,3
+Eleve_10,10,Osmond,Cleena,1,5,5,2,2,5
+Eleve_11,11,Hansen,Cleophee,2,6,4,5,3,4
+Eleve_12,12,Toeframathurinn,Merlin,3,7,3,4,3,3
+Eleve_13,13,Bryndisarson ,Sachka,4,5,3,3,4,2
+Eleve_14,14,Turrou,Audric,5,2,5,3,4,4
+Eleve_15,15,Renouf,Arwen,6,3,2,2,5,4
+Eleve_16,16,Alfur,Gauvain,5,4,1,4,3,3
+Eleve_17,17,Asgrimsson,Arya,2,3,4,5,2,1
+Eleve_18,18,Inguier,Cirdan,4,2,3,1,5,2
+Eleve_19,19,Eriksson,Valar,4,2,4,5,7,5
+Eleve_20,20,Yngouf,Matan,4,1,5,2,4,5
+Eleve_21,21,Varangot,Olaf,5,2,4,2,3,4
+Eleve_22,22,Aze,Leif,4,5,2,3,4,6
+Eleve_23,23,Ernouf,Bjarne,4,2,3,1,5,7
+Eleve_24,24,Kirkegaard,Gandalf,2,4,5,2,7,2
+Eleve_25,25,Persson,Markus,7,6,5,2,2,3
+Eleve_26,26,Foutete,Franco,3,7,3,1,6,3
+Eleve_27,27,Ovenn,Piro,2,6,4,5,4,5
+Eleve_28,28,Leinfebr,Lias,3,7,5,5,5,3
+Eleve_29,29,Miglagla,Yonn,1,4,5,7,3,2
+Eleve_30,30,Voyaar,Mateu,2,3,6,7,5,2
+Eleve_31,31,Gulbrandsen,Egill,5,2,1,6,5,3
