@@ -1,7 +1,15 @@
-# Projet T4
-## Classe de nei/g/e
 
-On est un prof remplaçant qui rentre dans la salle de classe, notre but tenir UNE DUREE, on évalue les élèves selon leurs compétences / actions. 
+
+# Classe de nei/g/e
+
+  **Projet réalisé dans le cadre du projet tuteuré de 4e semestre à l'IUT d'Illkirch Robert Schuman**
+
+__Objectif :__ Réaliser un serious game sur une durée limitée de 2 jours
+
+
+
+
+#### annexes
 
 - Idées : https://docs.google.com/document/d/10BMds7KBHOdHF7_uRwqcUApZlCsF1e6bVgqHh1PAJAI/edit?usp=sharing
 
